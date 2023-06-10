@@ -10,7 +10,7 @@
 # Send friends invitations
 ![Screenshot (223)](https://github.com/Tamalcs123/discord-clone/assets/87684531/15585dc2-e934-4e20-b8a1-360119ae122a)
 
-# Invitation recived by the friend
+# Invitation received by the friend
 ![Screenshot (223)](https://github.com/Tamalcs123/discord-clone/assets/87684531/419a9e19-ff13-40a2-acdb-c1a0dda3d31f)
 
 # Accept the invitation and make friend
